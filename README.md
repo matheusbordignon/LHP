@@ -1,4 +1,4 @@
-# LHP
+## LHP
 # 📝 Gerenciador de Tarefas
 
 CLI simples em Python para gerenciar suas tarefas direto pelo terminal. Os dados ficam salvos em um arquivo JSON local, sem precisar de banco de dados ou bibliotecas externas.
